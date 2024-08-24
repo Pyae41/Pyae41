@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pyae418283@gmail.com**
 
-- 📄 Know about my experiences [https://ppz-portfolio.vercel.app/resume.pdf](https://ppz-portfolio.vercel.app/resume.pdf)
+- 📄 Know about my experiences [https://ppz-portfolio.vercel.app/Pyae-Phyo-Zan-Resume.pdf](https://ppz-portfolio.vercel.app/Pyae-Phyo-Zan-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
