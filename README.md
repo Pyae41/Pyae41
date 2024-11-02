@@ -63,9 +63,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Pyae41/Pyae41/output/snake.svg" alt="Snake animation" />
-
-###
